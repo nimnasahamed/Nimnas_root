@@ -7,7 +7,7 @@ use extension as '.nimnas'
 
 A Sample code:
 
-# This is a sample software
+#This is a sample Code
 
 print("Hello World!")
 
