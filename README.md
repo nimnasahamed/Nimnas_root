@@ -16,5 +16,8 @@ for i = 0 to 5 then
 	print("Home")
 done
 
+
+in one line(CLI): for i = 0 to 5 then; print("Welcome"); print("Home"); done
+
 Save the code in root folder
 you can contact me anytime to talk about its development
